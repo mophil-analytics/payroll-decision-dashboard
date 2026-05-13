@@ -8,9 +8,8 @@ Detect payroll irregularities, workforce cost exposure, and suspicious compensat
 
 ## Proposed Dataset Columns
 
-------------------------------------------------
 | Column Name     | Purpose                    |
-| --------------- | -------------------------- |
+| :-------------- | :------------------------- |
 | Employee_ID     | Unique employee identifier |
 | Employee_Name   | Staff name                 |
 | Gender          | Gender analysis            |
@@ -57,5 +56,4 @@ Detect payroll irregularities, workforce cost exposure, and suspicious compensat
 
 ✅ Payroll Trend Over Time
 
-(list KPIs)
 
