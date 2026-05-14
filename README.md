@@ -37,8 +37,8 @@ The objectives of this project are to:
 
 ## Tools & Technologies
 
-- SQL
 - Microsoft Excel
+- SQL
 - Power BI
 - Python *(Planned for future enhancement)*
 
