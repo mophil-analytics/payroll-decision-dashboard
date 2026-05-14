@@ -22,38 +22,31 @@ Detect payroll irregularities, workforce cost exposure, and suspicious compensat
 ## Planned Payroll Anomalies
 
 1️⃣ Duplicate Salary Payment
- - Same employee paid twice.list anomaly types)
+- Same employee paid twice.
 
 2️⃣ Excessive Overtime
- - Overtime exceeds realistic threshold.
+- Overtime exceeds realistic threshold.
 
 3️⃣ Unusual Bonus Allocation
- - Bonus significantly higher than department average.
+- Bonus significantly higher than department average.
 
 4️⃣ Salary Outlier
- - Compensation far above comparable roles.
+- Compensation far above comparable roles.
 
 5️⃣ Missing Tax Deduction
- - Employee with salary but zero tax deduction.
+- Employee with salary but zero tax deduction.
 
 6️⃣ Ghost Payroll Entry
- - Duplicate bank account or suspicious records.
+- Duplicate bank account or suspicious records.
 
 ## Planned Dashboard KPIs
-✅ Total Payroll Cost
-
-✅ Total Workforce Cost
-
-✅ Overtime Exposure
-
-✅ Average Salary
-
-✅ Payroll Variance
-
-✅ Number of Payroll Flags
-
-✅ Department Cost Distribution
-
+✅ Total Payroll Cost  
+✅ Total Workforce Cost  
+✅ Overtime Exposure  
+✅ Average Salary  
+✅ Payroll Variance  
+✅ Number of Payroll Flags  
+✅ Department Cost Distribution  
 ✅ Payroll Trend Over Time
 
 
