@@ -52,7 +52,7 @@ Tools & Technologies used:
 - SQL
 - Power BI
 - DAX
-- Python (Future Enhancement)
+- Python (Planned Enhancement)
 
 ---
 
