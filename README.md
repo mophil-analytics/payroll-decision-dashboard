@@ -1,7 +1,6 @@
 # Executive Payroll Decision Intelligence System
 
 Transforming Payroll Data into Strategic Business Decisions Through Analytics, Risk Intelligence, and Executive Dashboards.
-![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
 
 ## Project Overview
 
