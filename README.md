@@ -1,46 +1,57 @@
-# Payroll Decision Intelligence Dashboard
+# Executive Payroll Decision Intelligence System
+
+Transforming Payroll Data into Strategic Business Decisions Through Analytics, Risk Intelligence, and Executive Dashboards.
 ![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
+
 ## Project Overview
 
-This project analyzes payroll and workforce cost data to support strategic business decision-making. The objective is to improve payroll visibility, identify workforce cost exposure, and provide actionable payroll intelligence through data analysis and dashboard reporting.
+The Executive Payroll Decision Intelligence System is a business intelligence solution designed to help executives gain visibility into payroll costs, workforce allocation, compensation patterns, overtime exposure, and payroll-related risks.
 
-The project simulates how organizations can leverage payroll analytics to monitor compensation trends, overtime exposure, departmental workforce costs, and payroll-related operational risks.
+Using SQL, Power BI, and payroll analytics methodologies, the system transforms payroll transactions into actionable insights that support strategic decision-making by CEOs, CFOs, HR Leaders, and Workforce Planning Teams.
+
+The project demonstrates how payroll data can be leveraged to optimize workforce costs, strengthen payroll governance, identify operational risks, and improve organizational performance.
 
 ---
 
 ## Business Problem
 
-Organizations often struggle with limited visibility into workforce cost drivers, overtime escalation, payroll anomalies, and compensation distribution across departments.
+Many organizations operate payroll as a transaction-processing function rather than a strategic decision-support function.
 
-Without structured payroll analytics, decision-makers may face:
-- Rising workforce costs
-- Overtime inefficiencies
-- Compensation imbalance
-- Payroll compliance exposure
-- Reduced operational efficiency
+As a result, leadership teams often lack visibility into:
 
-This project demonstrates how payroll data can support strategic workforce cost management.
+• Workforce cost concentration
+• Overtime exposure
+• Payroll anomalies
+• Compensation outliers
+• Payroll compliance risks
+• Departmental workforce efficiency
+
+Without payroll intelligence, organizations risk making workforce decisions with incomplete information.
 
 ---
 
 ## Business Objectives
 
-The objectives of this project are to:
+This project was developed to:
 
-- Analyze payroll cost distribution across departments
-- Identify workforce cost trends and anomalies
-- Monitor overtime-related cost exposure
-- Evaluate compensation patterns
-- Support payroll decision-making using data-driven insights
+• Measure total payroll exposure
+• Analyze workforce cost distribution across departments
+• Identify payroll risk indicators
+• Monitor overtime cost concentration
+• Evaluate compensation patterns
+• Support executive workforce planning
+• Provide actionable management insights
 
 ---
 
-## Tools & Technologies
+## Technology Stack (Tools & Technologies)
 
-- Microsoft Excel
-- SQL
-- Power BI
-- Python *(Planned for future enhancement)*
+• Microsoft Excel
+• PostgreSQL
+• SQL
+• Power BI
+• DAX
+• Python (Future Enhancement)
 
 ---
 
