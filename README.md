@@ -19,12 +19,12 @@ Many organizations operate payroll as a transaction-processing function rather t
 
 As a result, leadership teams often lack visibility into:
 
-• Workforce cost concentration
-• Overtime exposure
-• Payroll anomalies
-• Compensation outliers
-• Payroll compliance risks
-• Departmental workforce efficiency
+- Workforce cost concentration
+- Overtime exposure
+- Payroll anomalies
+- Compensation outliers
+- Payroll compliance risks
+- Departmental workforce efficiency
 
 Without payroll intelligence, organizations risk making workforce decisions with incomplete information.
 
@@ -34,13 +34,13 @@ Without payroll intelligence, organizations risk making workforce decisions with
 
 This project was developed to:
 
-• Measure total payroll exposure
-• Analyze workforce cost distribution across departments
-• Identify payroll risk indicators
-• Monitor overtime cost concentration
-• Evaluate compensation patterns
-• Support executive workforce planning
-• Provide actionable management insights
+- Measure total payroll exposure
+- Analyze workforce cost distribution across departments
+- Identify payroll risk indicators
+- Monitor overtime cost concentration
+- Evaluate compensation patterns
+- Support executive workforce planning
+- Provide actionable management insights
 
 ---
 
