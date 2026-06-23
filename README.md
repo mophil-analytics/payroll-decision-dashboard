@@ -111,5 +111,5 @@ Planned enhancements include:
 ## Author
 
 Philip Ojo  
-Payroll Data Risk & Workforce Cost Optimization Specialist  
-Founder, DIGINOMY Services
+Payroll Analytics, Workforce Cost Optimization & Risk Management Specialist  
+Founder, DIGINOMY Technologies Limited
