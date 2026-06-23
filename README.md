@@ -44,8 +44,10 @@ This project was developed to:
 
 ---
 
-## Technology Stack (Tools & Technologies)
+## Technology Stack 
+(Tools & Technologies)
 
+---
 • Microsoft Excel
 • PostgreSQL
 • SQL
