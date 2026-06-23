@@ -2,6 +2,7 @@
 
 Transforming Payroll Data into Strategic Business Decisions Through Analytics, Risk Intelligence, and Executive Dashboards.
 
+
 ## Project Overview
 
 The Executive Payroll Decision Intelligence System is a business intelligence solution designed to help executives gain visibility into payroll costs, workforce allocation, compensation patterns, overtime exposure, and payroll-related risks.
