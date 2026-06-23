@@ -46,23 +46,13 @@ This project was developed to:
 
 ## Technology Stack
 
+Tools & Technologies used:
 - Microsoft Excel
 - PostgreSQL
 - SQL
 - Power BI
 - DAX
 - Python (Future Enhancement)
-
-## Technology Stack 
-
-Tools & Technologies used:
-
-• Microsoft Excel
-• PostgreSQL
-• SQL
-• Power BI
-• DAX
-• Python (Future Enhancement)
 
 ---
 
